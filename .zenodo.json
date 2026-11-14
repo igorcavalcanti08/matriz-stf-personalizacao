@@ -1,0 +1,21 @@
+{
+  "upload_type": "dataset",
+  "title": "Matriz de mudanças normativas sobre o STF (1890–2023)",
+  "description": "Base de dados que acompanha o artigo \"A personalização do STF como trajetória institucional\". Registra 70 mudanças nas regras sobre o Supremo Tribunal Federal entre 1890 e 2023 (constituições, emendas constitucionais, leis, o Decreto nº 848/1890 e o Regimento Interno do STF, com emendas regimentais até a ER 59/2023), codificadas em quatro dimensões: competências, acesso, poderes individuais dos ministros e deliberação e publicidade. Cada código remete ao dispositivo e ao trecho da norma que o fundamenta.",
+  "creators": [
+    {
+      "name": "Nogueira, Igor Francisco Cavalcanti",
+      "affiliation": "Universidade de Brasília, Programa de Pós-Graduação em Direito"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "por",
+  "version": "10",
+  "keywords": [
+    "Supremo Tribunal Federal",
+    "institucionalismo histórico",
+    "decisões monocráticas",
+    "regimento interno",
+    "personalização"
+  ]
+}
