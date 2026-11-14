@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Se usar esta base, cite-a conforme abaixo."
+title: "Matriz de mudanças normativas sobre o STF (1890–2023)"
+type: dataset
+version: "10"
+date-released: 2026-11-14
+license: CC-BY-4.0
+repository-code: "https://github.com/igorcavalcanti08/matriz-stf-personalizacao"
+authors:
+  - family-names: Nogueira
+    given-names: Igor Francisco Cavalcanti
+    affiliation: "Programa de Pós-Graduação em Direito, Universidade de Brasília"
+keywords:
+  - Supremo Tribunal Federal
+  - institucionalismo histórico
+  - decisões monocráticas
+  - regimento interno
+  - personalização

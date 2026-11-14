@@ -1,0 +1,50 @@
+item,definição
+marco,Norma (mudança nas regras sobre o STF) analisada na linha.
+ano / tipo_fonte / link,"Ano da norma, tipo (Constituição, Emenda Constitucional, Lei, Decreto) e página oficial no Planalto."
+V1,Mudou o que o STF pode julgar?
+V2,Mudou quem pode levar casos ao STF?
+V3,"Poderes individuais: o que um ministro pode decidir ou determinar sozinho, em duas categorias: (a) poderes jurisdicionais do relator (decidir mérito, negar seguimento, conceder cautelar, admitir terceiros, convocar audiência); (b) poderes do Presidente ou de qualquer ministro sobre a agenda da corte (pautar, retirar de pauta, pedir vista). Excluem-se atribuições administrativas sem efeito sobre o julgamento (exequatur, licenças, gestão da secretaria). [definição revista em 12/10/2026]"
+V4,Mudou como a corte decide ou aparece para o público?
+*_sugestao,Código PROPOSTO automaticamente (rascunho). Nunca é decisão.
+*_justificativa,"Texto iniciado por 'SUGESTÃO:' + EVIDÊNCIAS numeradas: norma, dispositivo, trecho literal «…» copiado do texto extraído e link. '[redação anterior/riscada]' indica trecho que aparece riscado na página."
+*_validado,Preenchido pelo pesquisador (lista suspensa). Fica em branco na geração.
+A1,"Indivíduo ou coletivo — interpretação do pesquisador (em branco). Opções: Indivíduo, Coletivo, Misto, Neutro, Condições"
+A2,"Dimensão — interpretação do pesquisador . Opções: Institucional, Mediática, Comportamental, Mais de uma"
+A3_sugestao / A3_validado,"Quem fez a mudança (factual). Opções: Constituinte, Congresso, STF, Outro. Justificativa de A3 fica em notas_para_pesquisador."
+A4,Contexto — interpretação do pesquisador (em branco).
+notas_para_pesquisador,Observações factuais sobre a fonte e a extração.
+↑,ampliou
+↓,restringiu
+↑↓,misto
+=,manteve
+n/a,não se aplica
+A VERIFICAR,sem base suficiente para sugerir; exige conferência do pesquisador
+status ORIGINAL,dispositivo sem texto riscado e sem anotação de alteração na página
+status INCLUÍDO,anotação 'Incluído/Acrescentado pela…'
+status ALTERADO,"anotação 'Redação dada pela…' (redação anterior, se houver, em redacoes_anteriores)"
+status REVOGADO,"texto só riscado com anotação de revogação, ou anotação '(Revogado)' sem texto vigente"
+status INCERTO,a página não permite distinguir com segurança (ver motivo_status)
+criterio (Evidencias),Constituições: recorte do Poder Judiciário. Leis e emendas: contém ao menos um dos termos de busca.
+termos de busca,"Supremo Tribunal Federal, relator, monocrátic, seguimento, liminar, cautelar, vista, Plenário, Turma, público, sessão, transmiss, televis, repercussão geral, súmula, relevância, avoca, representação, Procurador-Geral. Atenção: 'público' também captura 'Ministério Público'; 'vista' captura 'tendo em vista'."
+dentro_de_citacao,'sim' quando o dispositivo é texto que a norma insere em outra (ex.: emenda citando artigo da Constituição).
+no_capitulo_judiciario,Para Constituições e EC 1/1969: se o dispositivo está no capítulo/seção do Poder Judiciário.
+Fontes,Páginas do Planalto acessadas em 06/10/2026 (ver fontes/lista_normas.csv e fontes/manifesto_downloads.csv).
+qualificadores,"'LEVE' e 'FORTE' não entram na lista suspensa; quando usados, ficam registrados em notas_para_pesquisador (ex.: Lei 9.756/1998, V3 ↑ FORTE)."
+versão 2 (12/10/2026),Nova definição de V3 e revisão das sugestões de V3; nova linha EC 3/1993; validação do período 3 (CF 1988 a EC 45/2004); Decreto 848/1890 com status ORIGINAL; Atos Institucionais 2/1965 e 6/1969 registrados como contexto. Versão anterior: matriz_stf_v1.xlsx.
+versão 3 (12/10/2026),"Validação de todas as linhas restantes (períodos 1, 2 e 4). Evidências manuais: CF 1934, art. 179, e CF 1946, art. 200 (reserva de plenário), fornecidas pelo pesquisador. Notas marcadas com ★ indicam pontos para a H2 (delegação normativa ao RISTF: CF 1967, art. 115, parágrafo único, c; EC 1/1969; EC 7/1977; Lei 11.418/2006). Pendentes: linhas do Regimento Interno (etapa do Claude Code) e dispositivos INCERTO da aba Evidencias."
+tipo_fonte Regimento,"Regimento Interno do STF (RISTF, 1980) e Emendas Regimentais; fonte: PDF consolidado do STF (edição 2026, até ER 59/2023), com tachado detectado pela geometria do PDF."
+status ORIGINAL (RISTF),"No RISTF, ORIGINAL é INFERIDO: dispositivo sem anotação e sem redação riscada na edição consolidada (o texto de 1980 não foi conferido)."
+acréscimo RISTF (13/10/2026),"Etapa 11 (Claude Code): 29 linhas do RISTF na Matriz (texto de 1980 + 28 ERs), 157 dispositivos na aba Evidencias e pendências. Sugestões NÃO validadas. Cópia anterior: matriz_stf_v3_antes_ristf.xlsx."
+versão 4 (13/10/2026),"Validação das 29 linhas do RISTF (A3 = STF). ER 24/2008 e ER 48/2012 ficam A VERIFICAR (extração falhou). ER 58/2022: V3 '↓' como efeito líquido, por decisão do pesquisador. Remissões ★ incluídas nas Leis 8.038/1990, 9.756/1998 e 9.868/1999 e na EC 7/1977. Pendência CRÍTICA: confirmar o texto de 1980 do RISTF (DJ 27/10/1980)."
+convenção n/a × =,"'=' quando a norma trata do STF mas não muda aquela dimensão; 'n/a' quando a norma é alheia à dimensão ou tem natureza só administrativa (ex.: Lei 10.461/2002 em V1–V3; ERs administrativas), ou é marco inicial sem termo de comparação."
+leitura da coluna A1,A1 registra o efeito PRINCIPAL da mudança; componentes secundários ficam nas notas (ex.: V3 ↑ LEVE em leis de efeito coletivo).
+checkup (13/10/2026),"Verificação automática: estrutura, valores válidos, coerência A3 × tipo_fonte, A1 × V3, sugestão × validação, evidências com link e texto, pendências e dicionário. Sem erros; ressalvas registradas em Pendencias."
+versão 5 (13/10/2026),"Verificação externa: texto de 1980 do RISTF corroborado (duas edições consolidadas + literatura); contextos A4 confirmados ou corrigidos (EC 3/1993, Lei 8.038/1990, ER 36/2009, ER 49/2014, ER 58/2022); correção: a ER 36/2009 regulamenta poder criado por lei (Lei 12.019/2009). Lacuna de cobertura do RISTF identificada (ERs 28, 30, 31, 34/2009 e emenda de outubro de 2020) — ver Pendencias."
+acréscimo Rodada 3 (13/10/2026),"Etapas 12-14 (Claude Code): inventário de todas as ERs; 19 linhas novas (ERs 3, 9, 13, 15, 17, 23, 25, 27, 28, 30, 31, 34, 37, 38, 45, 47, 56, 57, 59); ERs 24 e 48 atualizadas só em *_sugestao/*_justificativa; 108 linhas na aba Evidencias. Sugestões NÃO validadas. Cópia anterior: matriz_stf_v5.xlsx."
+versão 6 — FINAL (13/10/2026),"Validação das 19 ERs da Rodada 3 e das ERs 24/2008 e 48/2012; revisão da ER 54/2020 (V3 ↑↓, A1 Misto: primeira correção coletiva dirigida, art. 5º, XII). Critério uniforme: competência do Plenário para as Turmas = V4 ↓; das Turmas para o Plenário = V4 ↑. Pendências remanescentes não bloqueiam a matriz."
+V3_intensidade,"Para cada V3 ↑: 'forte' = poder de decidir o mérito ou o destino de uma classe inteira de processos (negar seguimento, dar provimento, julgar HC ou reclamação, instaurar inquérito, escolher o ambiente de julgamento de qualquer processo); 'leve' = poder restrito a situações específicas, incidentes ou etapas do procedimento. Contagens no artigo devem separar fortes e leves."
+versão 7 (22/10/2026),"Validação completa em quatro blocos com o pesquisador. Inclusões: Regimento de 1970; Lei 12.019/2009; coluna V3_intensidade. Revisões: Regimento de 1980 (comparado ao de 1970), ER 2/1985 (V2 ↓, A1 Misto), Lei 10.461/2002 (A1 Misto), ER 36/2009 (V3 =, A1 Neutro). Notas: origem regimental desde 1970; constitucionalização da arguição de relevância (EC 7/1977); extinção do filtro coletivo em 1988; origem do plenário virtual (ER 21/2007)."
+versão 7.1 (22/10/2026),"Pesquisa das pendências: ER 3/1975 cria a arguição de relevância; força de lei do Regimento (AI 727.503/2011); ADI 4638 como caso controverso; resoluções do ambiente virtual; dado de 70,6% (STF, 2026); MS após 1937; classificação das 12 ERs não incluídas."
+versão 8 (22/10/2026),Critério 'só entra na base o que foi lido na fonte': excluídas as informações parciais (ADI 4638; MS após 1937) e a hipótese da ER 3/1975; linha de 1970 restrita a dispositivos sem marca de emenda (V4 '='); arguição de relevância registrada na linha de 1980 (V4 '↓'). Nova aba Notas_metodologicas.
+versão 9 (22/10/2026),Regimento de 1970 conferido no texto original (DJ de 04/09/1970). Correções: atribuições do Presidente no art. 14 (não 13) em 1970; art. 308 original sem arguição de relevância e com 4 hipóteses de exclusão. Linha de 1980 reavaliada contra o original de 1970.
+versão 10 (10/11/2026),"Após o relatório de leitura: intensidade da parte ampliativa das três mudanças mistas (Lei 9.868/1999, CPC/2015 e ER 54/2020, todas forte); ER 17/2006 recodificada em A1 de Neutro para Coletivo; regra do sentido escrita: A1 registra o efeito principal julgado a partir dos códigos, e, quando a norma amplia um poder leve como acessório de um instrumento coletivo, o sentido segue o instrumento (Leis 11.417 e 11.418/2006). Contagens: 12 ampliações fortes puras (9 STF, 3 Congresso); 15 com as mistas (10 STF, 5 Congresso)."
