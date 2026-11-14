@@ -1,5 +1,7 @@
 # Matriz de mudanças normativas sobre o STF (1890–2023)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24233241.svg)](https://doi.org/10.5281/zenodo.24233241)
+
 Base de dados que acompanha o artigo **"A personalização do STF como trajetória institucional"**, de Igor Francisco Cavalcanti Nogueira (PPGD/UnB).
 
 A matriz registra 70 mudanças nas regras sobre o Supremo Tribunal Federal entre 1890 e 2023: constituições, emendas constitucionais, leis, o decreto que instituiu o tribunal e o Regimento Interno do STF (textos de 1970 e 1980 e emendas regimentais até a ER 59/2023). Cada mudança é codificada em quatro dimensões, e cada código remete ao dispositivo e ao trecho da norma que o fundamenta.
@@ -38,9 +40,9 @@ O critério de inclusão é restritivo: só entra na base o que foi lido na font
 
 ## Como citar
 
-> NOGUEIRA, Igor Francisco Cavalcanti. *Matriz de mudanças normativas sobre o STF (1890–2023)*. Versão 10. 2026. Base de dados. Disponível em: https://github.com/igorcavalcanti08/matriz-stf-personalizacao.
+> NOGUEIRA, Igor Francisco Cavalcanti. *Matriz de mudanças normativas sobre o STF (1890–2023)*. Versão 10. [S. l.]: Zenodo, 2026. Base de dados. DOI: 10.5281/zenodo.24233241. Disponível em: https://doi.org/10.5281/zenodo.24233241.
 
-O artigo correspondente ainda não foi publicado; a referência será acrescentada aqui.
+O DOI 10.5281/zenodo.24233241 identifica a versão 10. Para citar a base sem fixar uma versão, use o DOI 10.5281/zenodo.24233240, que sempre aponta para a mais recente. O artigo correspondente ainda não foi publicado; a referência será acrescentada aqui.
 
 ## Licença
 

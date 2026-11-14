@@ -5,6 +5,7 @@ type: dataset
 version: "10"
 date-released: 2026-11-14
 license: CC-BY-4.0
+doi: 10.5281/zenodo.24233241
 repository-code: "https://github.com/igorcavalcanti08/matriz-stf-personalizacao"
 authors:
   - family-names: Nogueira
